@@ -1,4 +1,4 @@
-# 📦 Agenda Comercial
+# 📦 SICAP Indicators
 
 ## 🧭 Overview
 - Short Summary of the app and what problem it solves. 
