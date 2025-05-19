@@ -30,11 +30,13 @@ This system was developed to solve a major visibility problem—users were unawa
 - 🧪 Auto-close and restart when updates are pushed
 
 ## ⚙️ Tech Stack
-- **Language:** C#
-- **Framework:** .NET Framework (WinForms)
-- **Database:** SQL Server (shared with **[SICAP](https://github.com/HermiloOrtega/SICAP)** and **[SICAP Web](https://github.com/HermiloOrtega/SICAP-Web)**)
-- **Deployment:** Windows App with auto-launch
-- **IDE:** Visual Studio
+| Component   | Description                         | Shield                                              |
+|-------------|-------------------------------------|-----------------------------------------------------|
+| **Language** | C#                                   | ![C#](https://img.shields.io/badge/Language-C%23-blue?style=flat&logo=csharp)   |
+| **Framework** | .NET Framework (WinForms)           | ![.NET](https://img.shields.io/badge/Framework-.NET%20Framework-5C2D91?style=flat&logo=.net)  |
+| **Database**  | SQL Server (shared with SICAP and SICAP Web) | ![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver) |
+| **Deployment**| Windows App with auto-launch        | ![Windows](https://img.shields.io/badge/Deployment-Windows%20App-0078D4?style=flat&logo=windows) |
+| **IDE**      | Visual Studio                       | ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=flat&logo=visualstudio) |
 
 ## 🏗 Architecture & Design
 - Built as a floating persistent UI panel
