@@ -30,13 +30,12 @@ This system was developed to solve a major visibility problem—users were unawa
 - 🧪 Auto-close and restart when updates are pushed
 
 ## ⚙️ Tech Stack
-| Component   | Description                         | Shield                                              |
-|-------------|-------------------------------------|-----------------------------------------------------|
-| **Language** | C#                                   | ![C#](https://img.shields.io/badge/Language-C%23-blue?style=flat&logo=csharp)   |
-| **Framework** | .NET Framework (WinForms)           | ![.NET](https://img.shields.io/badge/Framework-.NET%20Framework-5C2D91?style=flat&logo=.net)  |
-| **Database**  | SQL Server (shared with SICAP and SICAP Web) | ![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver) |
-| **Deployment**| Windows App with auto-launch        | ![Windows](https://img.shields.io/badge/Deployment-Windows%20App-0078D4?style=flat&logo=windows) |
-| **IDE**      | Visual Studio                       | ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=flat&logo=visualstudio) |
+| Category                | Tools & Frameworks |
+|-------------------------|--------------------|
+| **Languages & Frameworks** | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge) ![WinForms](https://img.shields.io/badge/WinForms-512BD4?logo=.net&logoColor=white&style=for-the-badge) ![ASP.NET](https://img.shields.io/badge/.NET%20Framework-512BD4?logo=.net&logoColor=white&style=for-the-badge) |
+| **Databases & Storage** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge) |
+| **Deployment** | ![Windows](https://img.shields.io/badge/Windows%20App-0078D4?logo=windows&logoColor=white&style=for-the-badge) |
+| **IDE** | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge) |
 
 ## 🏗 Architecture & Design
 - Built as a floating persistent UI panel
